@@ -24,6 +24,8 @@
 
 <a href="https://cybria-games.pages.dev/">Cloudflare Pages | CybriaGames.pages.dev</a>
 
+<a href="https://cybriagames.mybooty165.repl.co/">Replit | CybriaGames.MyBooty165.Repl.Co</a>
+
 # Sources
 **The games listed here aren't associated or made from us directly at all, they're embedded into our site for unblocking purposes.**
 
